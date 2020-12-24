@@ -8,7 +8,7 @@ public class shtany extends Odegda implements Woman_od, Men_od {
     }
     @Override
     public String dresMan() {
-        return null;
+        return dresMan();
     }
 
     @Override
